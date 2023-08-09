@@ -1,4 +1,5 @@
-# Project com Material Design
+# style-guide
+Project com Material Design
 ## Instalação
 - Baixe projeto em sua máquina
 - Acesse o diretório do projeto local
